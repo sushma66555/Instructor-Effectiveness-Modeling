@@ -38,4 +38,3 @@ The objective of this project is to evalute instructor effectiveness using learn
 
 ## Author
 **Sushma Yadav**
-- Dat
